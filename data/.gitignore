@@ -1,0 +1,2 @@
+# don't store uncompressed data in github
+*.csv
